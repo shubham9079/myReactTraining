@@ -1,0 +1,16 @@
+.jumbotron{
+    background-color: #d2edf1;
+    height: 85vh;
+    position: relative;
+    overflow: hidden;
+}
+.btn.btn-danger{
+    background-color: #e63946;
+}
+.jumbotron .content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+}

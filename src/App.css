@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+/* my custom css start */
+/* ====================== */
+.panel.panel-success{
+  margin-top: 20px;
+}
+.panel .panel-heading h1{
+  text-align: center;
+}

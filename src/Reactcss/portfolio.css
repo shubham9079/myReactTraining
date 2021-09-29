@@ -1,0 +1,21 @@
+#portfolio{
+    background-color: #d2edf1;
+}
+@media (max-width:768px){
+    .slideanim{
+        padding: 0 20px;
+    }
+}
+#myCarousel{
+    padding: 60px;
+}
+.carousel-control.right, .carousel-control.left {
+    background-image: none;
+    color: #e63946;
+  }
+  .carousel-indicators li {
+    border-color: #e63946;
+  }
+  .carousel-indicators li.active {
+    background-color: #e63946;
+  }
